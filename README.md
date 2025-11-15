@@ -10,7 +10,7 @@ Categorizes customers into Low, Medium, and High risk
 Generates automated retention suggestions
 Provides an interactive Streamlit dashboard for insights
 
-** Dataset**
+**Dataset**
 
 Includes:
 Customer demographics
